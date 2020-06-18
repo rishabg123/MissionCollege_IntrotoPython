@@ -1,0 +1,7 @@
+print("Enter an amount of money: ", end='')
+money = float(input())
+cents =float(money * 100)
+print("amount of dollars is:", int(cents/100))
+print("the amount of quarters is", int(cents/25))
+print("the amount of nickels is", int(cents/5))
+print("the amount of pennies is", int(cents))
