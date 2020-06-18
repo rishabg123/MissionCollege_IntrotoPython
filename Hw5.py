@@ -1,49 +1,49 @@
-# #5.18
-#
-# print("Enter a number")
-# number = int(input())
-# factors = []
-# num = number
-# while num != 1:
-#     for i in range(2, number):
-#         while (num % i) == 0:
-#             factors.append(i)
-#             num = num //i
-#
-# print("The factors are:")
-# for i in factors:
-#     print(i)
-#
-#
-# # 5.26
-# from fractions import Fraction
-# print("")
-# print("The answer to the series addition is:")
-# numerator = 1
-# denominator = 3
-# answer = 0
-# while denominator != 99:
-#     answer = answer + (numerator/denominator)
-#     numerator += 2
-#     denominator +=2
-# print(Fraction(answer))
-#
-# # 5.2
-# import time
-# import random
-#
-# wrongCount = 0
-# start_time = time.time()
-# for i in range(10):
-#     num1 = random.randint(1,15)
-#     num2 = random.randint(1,15)
-#     print("The answer to", num1 ,"+" ,num2, "is: ")
-#     answer = int(input())
-#     if answer != num1 + num2:
-#         wrongCount += 1
-# end_time = time.time()
-# print("You got", 10 - wrongCount, "questions correct out of 10")
-# print("It took you about", int(end_time - start_time), "seconds to do the problems")
+#5.18
+
+print("Enter a number")
+number = int(input())
+factors = []
+num = number
+while num != 1:
+    for i in range(2, number):
+        while (num % i) == 0:
+            factors.append(i)
+            num = num //i
+
+print("The factors are:")
+for i in factors:
+    print(i)
+
+
+# 5.26
+from fractions import Fraction
+print("")
+print("The answer to the series addition is:")
+numerator = 1
+denominator = 3
+answer = 0
+while denominator != 99:
+    answer = answer + (numerator/denominator)
+    numerator += 2
+    denominator +=2
+print(Fraction(answer))
+
+# 5.2
+import time
+import random
+
+wrongCount = 0
+start_time = time.time()
+for i in range(10):
+    num1 = random.randint(1,15)
+    num2 = random.randint(1,15)
+    print("The answer to", num1 ,"+" ,num2, "is: ")
+    answer = int(input())
+    if answer != num1 + num2:
+        wrongCount += 1
+end_time = time.time()
+print("You got", 10 - wrongCount, "questions correct out of 10")
+print("It took you about", int(end_time - start_time), "seconds to do the problems")
 
 # 5.10
 import math
