@@ -160,9 +160,9 @@ if __name__ == '__main__':
     print("New account Annual Interest Rate is", account.annualInterestRate)
     print("New account Monthly Interest is", account.getMonthlyInterest())
     account.deposit(5000)
-    print("Account deposit is $25000. The new account balance is", account.balance)
+    print("Account deposit is $5000. The new account balance is", account.balance)
     account.withdraw(2000)
-    print("Account withdrawal is $25000. The new account balance is", account.balance)
+    print("Account withdrawal is $2000. The new account balance is", account.balance)
 
     print("----------------------------------------------------------------------------")
     print("")
