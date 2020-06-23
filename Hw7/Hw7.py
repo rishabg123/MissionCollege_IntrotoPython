@@ -155,7 +155,6 @@ if __name__ == '__main__':
     account.setID(5)
     account.setBalance(75000)
     account.setAnnualInterestRate(5)
-    account = Account(5, 50000, 4.5)
     print("New account ID is: ", account.id)
     print("New account Balance is: ", account.balance)
     print("New account Annual Interest Rate is", account.annualInterestRate)
