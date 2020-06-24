@@ -84,14 +84,14 @@ class QuadratEquation:
     def getRoot1(self):
         d = (b ** 2) - (4 * a * c)
         sol2 = (-b+math.sqrt(d))/(2*a)
-        if (math.pow(self.b, 2) - 4*self.a * self.b) < 0:
+        if (math.pow(self.b, 2) - 4*self.a * self.c) < 0:
             return 0
         else:
             return sol2
     def getRoot2(self):
         d = (b ** 2) - (4 * a * c)
         sol1 = (-b-math.sqrt(d))/(2*a)
-        if (math.pow(self.b, 2) - 4*self.a * self.b) < 0:
+        if (math.pow(self.b, 2) - 4*self.a * self.c) < 0:
             return 0
         else:
             return sol1
