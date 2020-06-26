@@ -1,23 +1,23 @@
 # 8.3
 
-def valid(password) -> str:
-    digits = 0
-    characters = 0
+def valid():
+    password = str(input("Enter a password: "))
+    characters = len(password)
+    digit = password.isdigit()
+    if digit == True:
+        print("You need atleast 8 letters. There are only numbers")
+    if characters < 8:
+        print("You need atleast 8 characters")
+    if password.isalpha():
+        print("You cant put only characters")
+    if len([x for x in password if x.isdigit()]) < 2:
+        print("You need atleast 2 digits")
+    if password.isalnum() == False:
+        print("You can only have letters and digits")
 
-    for char in password:
-        if char.isalpha():
-            characters += 1
-        elif char.isdigit():
-            digits += 1
-            characters += 1
-
-    if characters >= 8:
-        if digits >= 2:
-            print("Password is valid")
-        else:
-            print("Password doesn't contain enough digits")
-    else:
-        print("Password doesn't contain enough characters")
+    elif digit == False and characters > 8 and password.isalpha() == False and len(
+            [x for x in password if x.isdigit()]) > 2 and password.isalnum() == True:
+        print("Password is valid")
     return ""
 
 
@@ -35,7 +35,7 @@ def reverse(s):
 # 8.2
 
 def findStr(str1, str2) -> bool:
-    if str1.find(str2) != -1:
+    if str2.find(str1) != -1:
         return True
     else:
         return False
@@ -74,9 +74,7 @@ def decimalToBinary(n):
 
 
 if __name__ == '__main__':
-    print("Enter a password: ", end='')
-    password = str(input())
-    print(valid(password), end='')
+    valid()
     print("---------------------------------------------------------------------------")
     print("Enter a string to reverse")
     reversal = str(input())
@@ -93,7 +91,7 @@ if __name__ == '__main__':
 
     print("---------------------------------------------------------------------------")
 
-    string = input("Please enter any string to convert: ")
+    string = input("Please enter any phone number to convert: ")
     length = len(string)
     for i in range(length):
 
