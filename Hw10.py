@@ -83,8 +83,7 @@ for i in duplicate:
 final = []
 final = list(set(duplicate2))
 print("The distinct numbers are:  ", end='')
-for i in final:
-    print(i, ", ", end='')
+print(final)
 print()
 
 print("-----------------------------------------------------------------------------------")
@@ -101,15 +100,20 @@ preList2 = input_string.split()
 
 list1 = []
 list2 = []
-finalList = []
+
 for i in preList:
     list1.append(float(i))
 for i in preList2:
     list2.append(float(i))
+newList = []
 
-for i in list1:
-    finalList.append(i)
-for i in list2:
-    finalList.append(i)
-finalList.sort()
-print(finalList)
+
+while list1 != [] and list2 != []:
+    if list1[0] < list2[0]:
+        newList.append(list1.pop(0))
+    else:
+        newList.append(list2.pop(0))
+
+newList += list1 + list2
+
+print(newList)

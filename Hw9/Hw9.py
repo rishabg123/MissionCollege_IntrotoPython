@@ -146,27 +146,32 @@ objects = ('Projects', 'Quizzes', 'Midterm', 'Final Exam')
 y_pos = np.arange(len(objects))
 performance = [20, 10, 30, 40]
 
-plt.bar(y_pos, performance, align='center', alpha=0.5)
+barList = plt.bar(y_pos, performance, align='center', alpha=1,color = colors)
 plt.xticks(y_pos, objects)
 plt.ylabel('Weighting')
 plt.title('Category Weighting')
+
+
 
 plt.show()
 
 # 9.18
 
+import random
+
 turtle = Turtle()
 def blink_on():
     turtle.write("WELCOME", align="center", font=("Impact", 50))
-    screen.ontimer(blink_off, 500)
+    screen.ontimer(blink_off, 200)
 
 def blink_off():
     turtle.undo()
-    screen.ontimer(blink_on, 500)
+    screen.ontimer(blink_on, 200)
 
 screen = Screen()
 
 blink_on()
+
 
 screen.exitonclick()
 
