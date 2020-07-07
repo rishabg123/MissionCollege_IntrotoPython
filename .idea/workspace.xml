@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5ddca929-4c27-468a-b4d2-c06452768ad5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hw9/Hw9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hw9/Hw9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hw11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hw11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midterm2/Midterm2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm2/Midterm2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midterm2/Searching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm2/Searching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +47,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Hw11" />
       <recent name="$PROJECT_DIR$/Hw9" />
       <recent name="$PROJECT_DIR$/Hw7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Hw10">
-    <configuration name="Hw10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hello">
+    <configuration name="Hw11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MissionCollege_IntrotoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +67,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hw10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hw11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hw6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Midterm2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MissionCollege_IntrotoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +84,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Midterm2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hw6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Midterm2/Midterm2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hw7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NearestPoints" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MissionCollege_IntrotoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +106,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hw11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hw7/Hw7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hw11/NearestPoints.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hw8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MissionCollege_IntrotoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +133,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hw8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hw9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="midterm1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MissionCollege_IntrotoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +155,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hw9/Hw9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/midterm1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Hw10" />
-        <item itemvalue="Python.Hw9" />
-        <item itemvalue="Python.Hw8" />
-        <item itemvalue="Python.Hw7" />
-        <item itemvalue="Python.Hw6" />
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.Hw11" />
+        <item itemvalue="Python.NearestPoints" />
+        <item itemvalue="Python.midterm1" />
+        <item itemvalue="Python.Midterm2" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +207,15 @@
       <workItem from="1593138767698" duration="673000" />
       <workItem from="1593370811190" duration="7414000" />
       <workItem from="1593453679402" duration="7526000" />
-      <workItem from="1593561570475" duration="2593000" />
+      <workItem from="1593561570475" duration="8187000" />
+      <workItem from="1593576308437" duration="114000" />
+      <workItem from="1593585296192" duration="163000" />
+      <workItem from="1593724118480" duration="1725000" />
+      <workItem from="1593736836425" duration="5667000" />
+      <workItem from="1593745729822" duration="2510000" />
+      <workItem from="1593800649810" duration="112000" />
+      <workItem from="1593800803702" duration="66000" />
+      <workItem from="1593980748276" duration="18196000" />
     </task>
     <servers />
   </component>
@@ -215,75 +227,92 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="566" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1592354395616" />
-    <state width="1250" height="716" key="GridCell.Tab.0.bottom" timestamp="1593563812734">
+    <state width="1303" height="485" key="GridCell.Tab.0.bottom" timestamp="1594090200562">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="788" height="257" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592947503964" />
-    <state width="1250" height="716" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1593563812734" />
+    <state width="883" height="261" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593745706122" />
+    <state width="1015" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593745306157" />
+    <state width="1303" height="485" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1594090200562" />
     <state width="1638" height="200" key="GridCell.Tab.0.bottom/1680.244.1432.1074/0.0.1680.1050@0.0.1680.1050" timestamp="1591753181118" />
-    <state width="1250" height="716" key="GridCell.Tab.0.center" timestamp="1593563812733">
+    <state width="1303" height="485" key="GridCell.Tab.0.center" timestamp="1594090200561">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="788" height="257" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592947503962" />
-    <state width="1250" height="716" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1593563812733" />
+    <state width="883" height="261" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593745706121" />
+    <state width="1015" height="261" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593745306156" />
+    <state width="1303" height="485" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1594090200561" />
     <state width="1638" height="200" key="GridCell.Tab.0.center/1680.244.1432.1074/0.0.1680.1050@0.0.1680.1050" timestamp="1591753181116" />
-    <state width="1250" height="716" key="GridCell.Tab.0.left" timestamp="1593563812733">
+    <state width="1303" height="485" key="GridCell.Tab.0.left" timestamp="1594090200561">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="788" height="257" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592947503962" />
-    <state width="1250" height="716" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1593563812733" />
+    <state width="883" height="261" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593745706121" />
+    <state width="1015" height="261" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593745306155" />
+    <state width="1303" height="485" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1594090200561" />
     <state width="1638" height="200" key="GridCell.Tab.0.left/1680.244.1432.1074/0.0.1680.1050@0.0.1680.1050" timestamp="1591753181115" />
-    <state width="1250" height="716" key="GridCell.Tab.0.right" timestamp="1593563812734">
+    <state width="1303" height="485" key="GridCell.Tab.0.right" timestamp="1594090200562">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="788" height="257" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592947503963" />
-    <state width="1250" height="716" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1593563812734" />
+    <state width="883" height="261" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593745706122" />
+    <state width="1015" height="261" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593745306156" />
+    <state width="1303" height="485" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1594090200562" />
     <state width="1638" height="200" key="GridCell.Tab.0.right/1680.244.1432.1074/0.0.1680.1050@0.0.1680.1050" timestamp="1591753181117" />
-    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1592546700296">
+    <state width="1418" height="345" key="GridCell.Tab.1.bottom" timestamp="1594090200540">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1592546700296" />
-    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1592546700296">
+    <state width="1418" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1594090200540" />
+    <state width="1418" height="345" key="GridCell.Tab.1.center" timestamp="1594090200539">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1592546700296" />
-    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1592546700295">
+    <state width="1418" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1594090200539" />
+    <state width="1418" height="345" key="GridCell.Tab.1.left" timestamp="1594090200539">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1592546700295" />
-    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1592546700296">
+    <state width="1418" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1594090200539" />
+    <state width="1418" height="345" key="GridCell.Tab.1.right" timestamp="1594090200539">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1592546700296" />
-    <state x="517" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1593561570092">
+    <state width="1418" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1594090200539" />
+    <state x="517" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1593980748607">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591805161803" />
-    <state x="517" y="372" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593561570092" />
-    <state x="505" y="251" width="670" height="662" key="search.everywhere.popup" timestamp="1592940679152">
+    <state x="517" y="372" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593980748607" />
+    <state x="591" y="382" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1593736836380" />
+    <state x="505" y="251" width="670" height="662" key="search.everywhere.popup" timestamp="1593983295150">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="505" y="251" width="670" height="662" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1592940679152" />
+    <state x="577" y="240" width="766" height="697" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593744816344" />
+    <state x="505" y="251" width="670" height="662" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1593983295150" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/1680.244.1432.1074/0.0.1680.1050@0.0.1680.1050" timestamp="1591750117610" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$tuition.coverage" NAME="tuition Coverage Results" MODIFIED="1592360083383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw6.coverage" NAME="Hw6 Coverage Results" MODIFIED="1592938691387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw11.coverage" NAME="Hw11 Coverage Results" MODIFIED="1594089533251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw9.coverage" NAME="Hw9 Coverage Results" MODIFIED="1593487445661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$hexadecimal.coverage" NAME="hexadecimal Coverage Results" MODIFIED="1592876981434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Midterm2.coverage" NAME="Midterm2 Coverage Results" MODIFIED="1593800699115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Midterm2" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw3.coverage" NAME="Hw3 Coverage Results" MODIFIED="1591920629159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$multTable.coverage" NAME="multTable Coverage Results" MODIFIED="1592359102006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw7.coverage" NAME="Hw7 Coverage Results" MODIFIED="1592959158140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw8.coverage" NAME="Hw8 Coverage Results" MODIFIED="1593370947243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw4.coverage" NAME="Hw4 Coverage Results" MODIFIED="1592275632084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Question4.coverage" NAME="Question4 Coverage Results" MODIFIED="1593746522836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$NearestPoints.coverage" NAME="NearestPoints Coverage Results" MODIFIED="1593998447201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hw11" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$point.coverage" NAME="point Coverage Results" MODIFIED="1593743729145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Midterm2" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$lottery.coverage" NAME="lottery Coverage Results" MODIFIED="1592273057620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$midterm1.coverage" NAME="midterm1 Coverage Results" MODIFIED="1592536327286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw5.coverage" NAME="Hw5 Coverage Results" MODIFIED="1592366950575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$hello.coverage" NAME="hello Coverage Results" MODIFIED="1594089741045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$midterm1.coverage" NAME="midterm1 Coverage Results" MODIFIED="1593800726673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw1.coverage" NAME="Hw1 Coverage Results" MODIFIED="1591725702298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$bmi.coverage" NAME="bmi Coverage Results" MODIFIED="1592272348558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$minumumNumberofCoins.coverage" NAME="minumumNumberofCoins Coverage Results" MODIFIED="1591927118605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$test.coverage" NAME="test Coverage Results" MODIFIED="1593574221547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$class2.coverage" NAME="class2 Coverage Results" MODIFIED="1591754758413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw10.coverage" NAME="Hw10 Coverage Results" MODIFIED="1593563812724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Sorting.coverage" NAME="Searching Coverage Results" MODIFIED="1593725817871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Midterm2" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw10.coverage" NAME="Hw10 Coverage Results" MODIFIED="1593724232109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Merging.coverage" NAME="Sorting Coverage Results" MODIFIED="1593725504927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Midterm2" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw7.coverage" NAME="Hw7 Coverage Results" MODIFIED="1592959158140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw8.coverage" NAME="Hw8 Coverage Results" MODIFIED="1593370947243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw4.coverage" NAME="Hw4 Coverage Results" MODIFIED="1592275632084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$lotteryCheckECA.coverage" NAME="lotteryCheckECA Coverage Results" MODIFIED="1593569339269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw5.coverage" NAME="Hw5 Coverage Results" MODIFIED="1592366950575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$ECA.coverage" NAME="ECA Coverage Results" MODIFIED="1593567392609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MissionCollege_IntrotoPython$Hw2.coverage" NAME="Hw2 Coverage Results" MODIFIED="1591748197675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

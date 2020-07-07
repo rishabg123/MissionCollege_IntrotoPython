@@ -6,7 +6,7 @@ def linearSearch(arr, find):
             return True
     return False
 
-
+# Binary Search
 def binary_search(arr, x):
     low = 0
     high = len(arr) - 1
