@@ -1,3 +1,5 @@
+# 12.1
+
 class GeometricObject:
     def __init__(self, color = "green", filled = True):
         self.__color = color
@@ -35,6 +37,34 @@ class Triangle(GeometricObject):
         return self.side1 + self.side2 + self.side3
     def __str__(self):
         return "Triangle: side1 = " + str(self.side1) + " side2 = " + str(self.side2) + " side3 = " + str(self.side3)
+
+
+
+# 12.4
+
+def getRectangle(points):
+    points = points.split()
+    pts = []
+    i = 0
+    while i < len(points):
+        pts.append((float(points[i]), float(points[i+1])))
+        i+=2
+    points = pts
+
+    minX = min([x for (x,y) in points])
+    maxX = max([x for (x, y) in points])
+    minY = min([y for (x, y) in points])
+    maxY = max([y for (x, y) in points])
+
+    width = abs(maxX - minX)
+    height = abs(maxY - minY)
+    center = ((minX + maxX) / 2.0, (minY + maxY) / 2.0)
+
+    print("The bounding rectangle is centered at", center, " with width", width, "and height ", height)
+
+def main():
+    getRectangle(str(input("Enter the points in one line seperated by a space: ")))
+main()
 
 if __name__ == '__main__':
     print("Enter side 1 of the triangle: ", end='')
