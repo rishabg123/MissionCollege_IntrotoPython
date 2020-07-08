@@ -29,6 +29,13 @@ class Triangle(GeometricObject):
         return self.side2
     def getSide3(self):
         return self.side3
+
+    def setSide1(self, side1:float):
+        self.side1 = side1
+    def setSide2(self, side2:float):
+        self.side2 = side2
+    def setSide3(self, side3:float):
+        self.side3 = side3
     def getArea(self):
         s = (self.side1+self.side2+self.side3)/2
         area = math.sqrt(s*(s-self.side1) * (s-self.side2) * (s-self.side3))
@@ -78,11 +85,14 @@ if __name__ == '__main__':
     print("Enter 0 if you don't want the triangle filled and 1 if you want it filled: ", end='')
     filled = int(input())
     triangle = Triangle(side1, side2, side3)
-    print(triangle.__str__())
-    print("The area of the triangle is:", triangle.getArea())
-    print("The perimeter of the triangle is:", triangle.getPerimeter())
-    print("The color of the triangle is", color)
-    if filled == 0:
-        print("The triangle is not filled")
+    if side1 + side2 < side3 or side2 + side3 < side1 or side1 + side3 < side2:
+        print("This is not a valid triangle")
     else:
-        print("The triangle is filled")
+        print(triangle.__str__())
+        print("The area of the triangle is:", triangle.getArea())
+        print("The perimeter of the triangle is:", triangle.getPerimeter())
+        print("The color of the triangle is", color)
+        if filled == 0:
+            print("The triangle is not filled")
+        else:
+            print("The triangle is filled")
