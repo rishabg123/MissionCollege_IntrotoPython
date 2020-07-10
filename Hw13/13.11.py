@@ -57,10 +57,10 @@ if __name__ == '__main__':
     side2 = float(input())
     print("Enter side 3 of the triangle: ", end='')
     side3 = float(input())
-    # print("Enter the color of the triangle: ", end='')
-    # color = str(input())
-    # print("Enter 0 if you don't want the triangle filled and 1 if you want it filled: ", end='')
-    # filled = int(input())
+    print("Enter the color of the triangle: ", end='')
+    color = str(input())
+    print("Enter 0 if you don't want the triangle filled and 1 if you want it filled: ", end='')
+    filled = int(input())
     triangle = Triangle(side1, side2, side3)
     print()
     try:
@@ -68,12 +68,10 @@ if __name__ == '__main__':
         print(triangle.__str__())
         print("The area of the triangle is:", triangle.getArea())
         print("The perimeter of the triangle is:", triangle.getPerimeter())
+        print("The color of the triangle is", color)
+        if filled == 0:
+            print("The triangle is not filled")
+        else:
+             print("The triangle is filled")
     except RuntimeError:
         print("Runtime Error: The triangle is not valid")
-
-
-       # print("The color of the triangle is", color)
-       #  if filled == 0:
-       #      print("The triangle is not filled")
-       #  else:
-       #      print("The triangle is filled")
