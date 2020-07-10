@@ -41,7 +41,7 @@ class Triangle(GeometricObject):
         return area
     def isValid(self):
         if self.side1 + self.side2 < self.side3 or self.side2 + self.side3 < self.side1 or self.side1 + self.side3 < self.side2:
-            raise Exception('RuntimeError')
+            raise RuntimeError('Not a valid triangle')
 
         else:
             return True
@@ -65,12 +65,12 @@ if __name__ == '__main__':
     print()
     try:
         triangle.isValid()
-    except:
+        print(triangle.__str__())
+        print("The area of the triangle is:", triangle.getArea())
+        print("The perimeter of the triangle is:", triangle.getPerimeter())
+    except RuntimeError:
         print("Runtime Error: The triangle is not valid")
 
-    # print(triangle.__str__())
-    # print("The area of the triangle is:", triangle.getArea())
-    # print("The perimeter of the triangle is:", triangle.getPerimeter())
 
        # print("The color of the triangle is", color)
        #  if filled == 0:
