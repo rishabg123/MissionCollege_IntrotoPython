@@ -8,10 +8,12 @@ fullsalary, associatesalary, assistantsalary = 0, 0, 0
 #url = url1.strip('"')
 #print(url)
 infile = urllib.request.urlopen("http://liveexample.pearsoncmg.com/data/Salary.txt")
+#fp = open("Salary.txt", "r")
 
-
+#infile = fp.readlines()
 for line in infile:
     decoded_line = line.decode("utf-8")
+    #decoded_line = line
 
     record = decoded_line.split()
     #print("Record: ", record)

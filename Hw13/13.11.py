@@ -75,3 +75,5 @@ if __name__ == '__main__':
              print("The triangle is filled")
     except RuntimeError:
         print("Runtime Error: The triangle is not valid")
+    except:
+        print("404 Bad Error")

@@ -1,3 +1,3 @@
-morning
-evening
-afternoon
+Python is the most versatile and popular programming languages which is used by many. Python is the leading language used in modern
+machine learning and aritifical intelligence algorithms. People also use Python for Frontend and Backend Web Development utilizing
+frameworks such as Django. Python is the top rated programming language to learn in 2020, the average salary being 120,000 dollars.
